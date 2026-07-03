@@ -4,7 +4,7 @@
   <img src="ms.png" alt="멋쟁이사자처럼 AI NLP 부트캠프" width="720">
 </p>
 
-멋쟁이사자처럼 AI NLP 부트캠프 실습 코드 저장소입니다. 폴더명은 `날짜(YYMMDD)_주제` 형식입니다.
+멋쟁이사자처럼 AI NLP 부트캠프 실습 코드들을 기록했습니다.
 
 ## 📌 260629_nlp_project
 - nlp_proj1.ipynb : NLP 프로젝트 실습 1
