@@ -7,8 +7,8 @@
 멋쟁이사자처럼 AI NLP 부트캠프 실습 코드들을 기록했습니다.
 
 ## 📌 260629_nlp_project
-- nlp_proj1.ipynb : NLP 프로젝트 실습 1
-- nlp_proj2.ipynb : NLP 프로젝트 실습 2
+- nlp_proj1.ipynb : NLP 수업 중 실습 1
+- nlp_proj2.ipynb : NLP 수업 중 실습 2
 
 ## 📌 260630_sentiment_benchmark
 - lstm_sentiment_sst2.ipynb : NLTK movie_reviews로 LSTM 감성 분석 모델 학습 후 GLUE SST-2로 fine-tuning 및 test 예측
@@ -24,7 +24,6 @@
 ## 📌 260703_BERT_LoLA
 - vit_lora_finetuning.ipynb : ImageNet 사전학습 ViT-B/16에 LoRA를 순수 PyTorch로 구현·적용하여 Oxford-IIIT Pet 37개 품종 분류로 fine-tuning
 
-## 📌 목표
-- NLP 모델 구조(RNN, Seq2Seq, Attention, Transformer, BERT) 이해
-- 실습 기반 모델 구현 능력 향상
-- Fine-tuning 및 PEFT(LoRA) 기법 습득
+## 📌 260706_GPT
+- Llama 3.1-8B base 모델과 instruct 모델을 동일한 프롬프트로 비교
+- TRL로 SFT->RM->PPO로 이어지는 RLHF 전 과정을 돌려보고, 보상 점수를 통해 모델이 점점 더 친절한 답변을 내도록 학습
