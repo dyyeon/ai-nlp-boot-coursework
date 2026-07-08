@@ -30,3 +30,7 @@
 ## 📌 260707_GPT
 - CoT(Chain-of-Thought)기법에 대한 조사 및 정리, 활용하여 두 가지 문제를 다양한 CoT기법을 해결해 본 후 팀원들과 비교
 - Naive RAG의 문제점을 찾아보고 개선 사항 설계하기
+
+## 📌 260708
+- 한국동서발전 주관, 풍력발전량 예측 AI 경진대회 참가
+- 기상예보 데이터 기반 풍력발전량 예측 AI 모델 개발 (https://dacon.io/competitions/official/236727/overview/description)
